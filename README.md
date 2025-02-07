@@ -93,4 +93,5 @@ Please refer to the [contribution guidelines](#) for more information.
 
 ## License
 
-Nodus AI is licensed under the MIT License.
+Nodus AI is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
