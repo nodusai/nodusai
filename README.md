@@ -1,5 +1,9 @@
 # Nodus AI
 
+<p align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/b7b57f25-9d61-44fa-9f84-de42e35e761f)" alt="Logo" />
+</p>
+
 Nodus AI is an open-source workflow automation platform that intelligently connects applications and services, allowing integrations with any local or external data source (such as Google Drive, databases, APIs, and more). With its intuitive, no-code interface, Nodus AI enables seamless automation of repetitive tasks and complex business processes.
 
 ## Features
